@@ -12,14 +12,6 @@ function App() {
           <h1>Krishna Loves You❤</h1>
           <h1> I Love You❤</h1>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
